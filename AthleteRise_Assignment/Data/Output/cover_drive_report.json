@@ -1,0 +1,834 @@
+{
+    "metrics_per_frame": [
+        {
+            "front_elbow_angle": 101.30993247402021,
+            "spine_lean": 137.29061004263855,
+            "front_foot_angle": 52.1250163489018,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 162.25532837494308,
+            "spine_lean": 139.3987053549955,
+            "front_foot_angle": 40.60129464500447,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 176.63353933657007,
+            "spine_lean": 139.3987053549955,
+            "front_foot_angle": 30.96375653207352,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 169.38034472384487,
+            "spine_lean": 139.3987053549955,
+            "front_foot_angle": 27.255328374943062,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 176.63353933657007,
+            "spine_lean": 139.3987053549955,
+            "front_foot_angle": 27.255328374943062,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 176.63353933657007,
+            "spine_lean": 139.3987053549955,
+            "front_foot_angle": 26.250242369688884,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 169.38034472384487,
+            "spine_lean": 139.3987053549955,
+            "front_foot_angle": 26.250242369688884,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 169.38034472384487,
+            "spine_lean": 139.3987053549955,
+            "front_foot_angle": 27.255328374943062,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 169.38034472384487,
+            "spine_lean": 141.34019174590992,
+            "front_foot_angle": 27.255328374943062,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 169.38034472384487,
+            "spine_lean": 141.34019174590992,
+            "front_foot_angle": 29.744881296942214,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 162.25532837494308,
+            "spine_lean": 141.34019174590992,
+            "front_foot_angle": 29.744881296942214,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 162.25532837494308,
+            "spine_lean": 143.13010235415598,
+            "front_foot_angle": 23.49856567595208,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 153.434948822922,
+            "spine_lean": 144.78240703180728,
+            "front_foot_angle": 23.49856567595208,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 153.434948822922,
+            "spine_lean": 144.78240703180728,
+            "front_foot_angle": 23.49856567595208,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 153.434948822922,
+            "spine_lean": 144.78240703180728,
+            "front_foot_angle": 26.250242369688884,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 168.11134196037207,
+            "spine_lean": 144.78240703180728,
+            "front_foot_angle": 27.255328374943062,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 156.80140948635182,
+            "spine_lean": 144.78240703180728,
+            "front_foot_angle": 30.96375653207352,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 156.80140948635182,
+            "spine_lean": 144.78240703180728,
+            "front_foot_angle": 32.47119229084849,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 153.434948822922,
+            "spine_lean": 143.13010235415598,
+            "front_foot_angle": 28.47420361007436,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 153.434948822922,
+            "spine_lean": 143.13010235415598,
+            "front_foot_angle": 26.56505117707798,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 172.87498365109823,
+            "spine_lean": 143.13010235415598,
+            "front_foot_angle": 23.83874018317171,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 143.13010235415598,
+            "spine_lean": 143.13010235415598,
+            "front_foot_angle": 26.56505117707798,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 111.80140948635182,
+            "spine_lean": 143.13010235415598,
+            "front_foot_angle": 23.83874018317171,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 108.43494882292201,
+            "spine_lean": 143.13010235415598,
+            "front_foot_angle": 23.83874018317171,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 138.3664606634298,
+            "spine_lean": 143.13010235415598,
+            "front_foot_angle": 23.83874018317171,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 135.0,
+            "spine_lean": 143.13010235415598,
+            "front_foot_angle": 26.56505117707798,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 108.43494882292201,
+            "spine_lean": 143.13010235415598,
+            "front_foot_angle": 28.07248693585296,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 108.43494882292201,
+            "spine_lean": 144.78240703180728,
+            "front_foot_angle": 40.23635830927383,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 108.43494882292201,
+            "spine_lean": 146.3099324740202,
+            "front_foot_angle": 34.38034472384488,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 79.38034472384487,
+            "spine_lean": 146.3099324740202,
+            "front_foot_angle": 34.38034472384488,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 79.38034472384487,
+            "spine_lean": 147.72435568542238,
+            "front_foot_angle": 32.47119229084849,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 77.47119229084849,
+            "spine_lean": 146.3099324740202,
+            "front_foot_angle": 32.47119229084849,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 75.96375653207353,
+            "spine_lean": 147.72435568542238,
+            "front_foot_angle": 27.255328374943062,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 75.96375653207353,
+            "spine_lean": 149.03624346792648,
+            "front_foot_angle": 26.250242369688884,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 75.96375653207353,
+            "spine_lean": 150.2551187030578,
+            "front_foot_angle": 23.49856567595208,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 150.94539590092285,
+            "spine_lean": 147.72435568542238,
+            "front_foot_angle": 24.341089936692523,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 150.94539590092285,
+            "spine_lean": 147.72435568542238,
+            "front_foot_angle": 24.341089936692523,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 149.03624346792648,
+            "spine_lean": 147.72435568542238,
+            "front_foot_angle": 24.341089936692523,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 147.52880770915152,
+            "spine_lean": 147.72435568542238,
+            "front_foot_angle": 24.341089936692523,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 149.03624346792648,
+            "spine_lean": 149.03624346792648,
+            "front_foot_angle": 24.341089936692523,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 147.52880770915152,
+            "spine_lean": 149.03624346792648,
+            "front_foot_angle": 21.991129917177112,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 149.03624346792648,
+            "spine_lean": 147.72435568542238,
+            "front_foot_angle": 26.56505117707798,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 135.0,
+            "spine_lean": 150.2551187030578,
+            "front_foot_angle": 29.981639368849336,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 26.565051177077994,
+            "spine_lean": 149.03624346792648,
+            "front_foot_angle": 33.11134196037202,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 30.547571748907,
+            "spine_lean": 146.3099324740202,
+            "front_foot_angle": 46.21887523513129,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 29.396052854943253,
+            "spine_lean": 143.13010235415598,
+            "front_foot_angle": 43.99491399474582,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 28.141601232261724,
+            "spine_lean": 141.34019174590992,
+            "front_foot_angle": 43.152389734005396,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 33.690067525979785,
+            "spine_lean": 137.29061004263855,
+            "front_foot_angle": 54.46232220802562,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 17.01468327652297,
+            "spine_lean": 139.3987053549955,
+            "front_foot_angle": 54.46232220802562,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 18.434948822921974,
+            "spine_lean": 139.3987053549955,
+            "front_foot_angle": 54.46232220802562,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 19.238644516908455,
+            "spine_lean": 135.0,
+            "front_foot_angle": 73.73979529168804,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 20.045249425420995,
+            "spine_lean": 135.0,
+            "front_foot_angle": 54.46232220802562,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 17.318938431514713,
+            "spine_lean": 132.51044707800085,
+            "front_foot_angle": 55.30484646876604,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 14.90265423903113,
+            "spine_lean": 129.8055710922652,
+            "front_foot_angle": 55.30484646876604,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 14.90265423903113,
+            "spine_lean": 129.8055710922652,
+            "front_foot_angle": 55.30484646876604,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 14.90265423903113,
+            "spine_lean": 126.86989764584402,
+            "front_foot_angle": 55.30484646876604,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 13.099843082266304,
+            "spine_lean": 129.8055710922652,
+            "front_foot_angle": 43.152389734005396,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 12.56438409670178,
+            "spine_lean": 129.8055710922652,
+            "front_foot_angle": 43.99491399474582,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 13.715902990665544,
+            "spine_lean": 132.51044707800085,
+            "front_foot_angle": 36.027373385103616,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 14.656751115760448,
+            "spine_lean": 132.51044707800085,
+            "front_foot_angle": 32.106255955117845,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 12.050784883409548,
+            "spine_lean": 132.51044707800085,
+            "front_foot_angle": 29.744881296942214,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 12.789072276326255,
+            "spine_lean": 120.25643716352927,
+            "front_foot_angle": 60.25511870305777,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 14.90265423903113,
+            "spine_lean": 112.61986494804043,
+            "front_foot_angle": 161.565051177078,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 15.499275376500837,
+            "spine_lean": 112.61986494804043,
+            "front_foot_angle": 123.6900675259798,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 14.43206293613591,
+            "spine_lean": 112.61986494804043,
+            "front_foot_angle": 138.3664606634298,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 10.284514397400532,
+            "spine_lean": 108.43494882292201,
+            "front_foot_angle": 156.80140948635182,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 9.8390373860011,
+            "spine_lean": 108.43494882292201,
+            "front_foot_angle": 149.03624346792648,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 9.593134262730356,
+            "spine_lean": 116.56505117707799,
+            "front_foot_angle": 126.02737338510362,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 10.772647648220682,
+            "spine_lean": 120.25643716352927,
+            "front_foot_angle": 53.13010235415599,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 11.52372170389732,
+            "spine_lean": 129.8055710922652,
+            "front_foot_angle": 41.28471089457124,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 23.629377730656824,
+            "spine_lean": 141.34019174590992,
+            "front_foot_angle": 96.3401917459099,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 172.91152432185402,
+            "spine_lean": 152.44718842328223,
+            "front_foot_angle": 173.4801982483431,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 171.17962044797898,
+            "spine_lean": 155.22485943116808,
+            "front_foot_angle": 175.3999043337368,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 20.70903759164902,
+            "spine_lean": 155.22485943116808,
+            "front_foot_angle": 174.18102909860536,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 20.915136629033167,
+            "spine_lean": 156.03751102542182,
+            "front_foot_angle": 172.3039482779834,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 20.344101255918396,
+            "spine_lean": 155.22485943116808,
+            "front_foot_angle": 165.32360686255004,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 26.771150214462118,
+            "spine_lean": 156.03751102542182,
+            "front_foot_angle": 160.55996517182382,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 142.59464336859142,
+            "spine_lean": 153.434948822922,
+            "front_foot_angle": 177.82525588538982,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": NaN,
+            "spine_lean": 153.434948822922,
+            "front_foot_angle": 177.43622978853506,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 179.1574757392599,
+            "spine_lean": 152.44718842328223,
+            "front_foot_angle": 178.1523897340055,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 175.4260787400992,
+            "spine_lean": 152.44718842328223,
+            "front_foot_angle": 178.78112476486896,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 161.02959219151347,
+            "spine_lean": 152.44718842328223,
+            "front_foot_angle": 178.78112476486896,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 164.9084273214051,
+            "spine_lean": 152.44718842328223,
+            "front_foot_angle": 171.6492474676686,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 160.14478563067894,
+            "spine_lean": 151.3895403340348,
+            "front_foot_angle": 177.27368900609395,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 168.27488798483492,
+            "spine_lean": 150.2551187030578,
+            "front_foot_angle": 164.5387822595581,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 165.32360686255004,
+            "spine_lean": 151.3895403340348,
+            "front_foot_angle": 173.55839990066494,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 95.44033203100551,
+            "spine_lean": 151.3895403340348,
+            "front_foot_angle": 174.0938588862295,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 49.96974072811031,
+            "spine_lean": 151.3895403340348,
+            "front_foot_angle": 178.78112476486896,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 50.19442890773481,
+            "spine_lean": 149.03624346792648,
+            "front_foot_angle": 176.63353933657007,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 38.65980825409008,
+            "spine_lean": 149.03624346792648,
+            "front_foot_angle": 169.38034472384487,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 18.79988515865266,
+            "spine_lean": 149.03624346792648,
+            "front_foot_angle": 81.86989764584403,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 19.00598419603677,
+            "spine_lean": 149.03624346792648,
+            "front_foot_angle": 108.43494882292201,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 123.27488798483492,
+            "spine_lean": 147.72435568542238,
+            "front_foot_angle": 77.47119229084849,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 152.31893843151477,
+            "spine_lean": 147.72435568542238,
+            "front_foot_angle": 37.8749836510982,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 152.65012421993012,
+            "spine_lean": 147.72435568542238,
+            "front_foot_angle": 33.11134196037202,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 158.8752808539275,
+            "spine_lean": 147.72435568542238,
+            "front_foot_angle": 33.11134196037202,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 159.14554196042167,
+            "spine_lean": 146.3099324740202,
+            "front_foot_angle": 34.33021719550332,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 159.14554196042167,
+            "spine_lean": 146.3099324740202,
+            "front_foot_angle": 39.0938588862295,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 173.18178542834815,
+            "spine_lean": 147.72435568542238,
+            "front_foot_angle": 23.49856567595208,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 173.88449643371462,
+            "spine_lean": 147.72435568542238,
+            "front_foot_angle": 24.341089936692523,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 172.91152432185402,
+            "spine_lean": 147.72435568542238,
+            "front_foot_angle": 19.440034828176188,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 22.83365417791755,
+            "spine_lean": 149.03624346792648,
+            "front_foot_angle": 20.056094736575425,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 38.65980825409008,
+            "spine_lean": 149.03624346792648,
+            "front_foot_angle": 19.051008731321264,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 38.884496433714595,
+            "spine_lean": 151.3895403340348,
+            "front_foot_angle": 19.440034828176188,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 49.76364169072618,
+            "spine_lean": 150.2551187030578,
+            "front_foot_angle": 17.899489837357514,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 96.70983680775694,
+            "spine_lean": 147.72435568542238,
+            "front_foot_angle": 17.899489837357514,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 31.75948008481281,
+            "spine_lean": 146.3099324740202,
+            "front_foot_angle": 17.899489837357514,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 21.139824808657657,
+            "spine_lean": 143.13010235415598,
+            "front_foot_angle": 19.440034828176188,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 26.029592191513473,
+            "spine_lean": 144.78240703180728,
+            "front_foot_angle": 18.904575842611635,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 22.782405730481685,
+            "spine_lean": 144.78240703180728,
+            "front_foot_angle": 22.166345822082455,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 28.47420361007436,
+            "spine_lean": 144.78240703180728,
+            "front_foot_angle": 71.56505117707799,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 28.47420361007436,
+            "spine_lean": 144.78240703180728,
+            "front_foot_angle": 98.13010235415598,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 20.658910063307477,
+            "spine_lean": 143.13010235415598,
+            "front_foot_angle": 144.46232220802563,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 28.739795291688043,
+            "spine_lean": 139.3987053549955,
+            "front_foot_angle": 170.72739822279976,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 31.26373169437743,
+            "spine_lean": 137.29061004263855,
+            "front_foot_angle": 180.0,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 37.8749836510982,
+            "spine_lean": 132.51044707800085,
+            "front_foot_angle": 180.0,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 35.31121343963321,
+            "spine_lean": 126.86989764584402,
+            "front_foot_angle": 177.51044707800074,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 42.436229788535,
+            "spine_lean": 123.6900675259798,
+            "front_foot_angle": 153.434948822922,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 34.15969454566944,
+            "spine_lean": 120.25643716352927,
+            "front_foot_angle": 132.51044707800085,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 29.9315118405078,
+            "spine_lean": 120.25643716352927,
+            "front_foot_angle": 26.029592191513473,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 55.30484646876604,
+            "spine_lean": 94.76364169072617,
+            "front_foot_angle": 26.250242369688884,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 59.03624346792648,
+            "spine_lean": 85.23635830927383,
+            "front_foot_angle": 19.051008731321264,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 30.96375653207352,
+            "spine_lean": 85.23635830927383,
+            "front_foot_angle": 18.434948822922017,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 37.746805387274655,
+            "spine_lean": 90.0,
+            "front_foot_angle": 71.56505117707799,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 43.602818972703616,
+            "spine_lean": 94.76364169072617,
+            "front_foot_angle": 101.30993247402021,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 43.602818972703616,
+            "spine_lean": 99.46232220802563,
+            "front_foot_angle": 161.565051177078,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 78.69006752597979,
+            "spine_lean": 99.46232220802563,
+            "front_foot_angle": 179.99999879258172,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 179.99999879258172,
+            "spine_lean": 94.76364169072617,
+            "front_foot_angle": 116.56505117707799,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 165.96375653207352,
+            "spine_lean": 85.23635830927383,
+            "front_foot_angle": 31.890791801845708,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 165.96375653207352,
+            "spine_lean": 90.0,
+            "front_foot_angle": 37.746805387274655,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 169.38034472384487,
+            "spine_lean": 90.0,
+            "front_foot_angle": 168.69006752597974,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 164.74488129694225,
+            "spine_lean": 90.0,
+            "front_foot_angle": NaN,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 132.51044707800085,
+            "spine_lean": 94.76364169072617,
+            "front_foot_angle": 135.0,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 132.51044707800085,
+            "spine_lean": 99.46232220802563,
+            "front_foot_angle": 36.86989764584403,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 135.0,
+            "spine_lean": 99.46232220802563,
+            "front_foot_angle": 27.181111085477223,
+            "head_knee_alignment": 25
+        },
+        {
+            "front_elbow_angle": 105.94539590092286,
+            "spine_lean": 94.76364169072617,
+            "front_foot_angle": 19.238644516908455,
+            "head_knee_alignment": 25
+        }
+    ],
+    "scores": {
+        "footwork": 8,
+        "balance": 9,
+        "bat_swing": 7,
+        "head_position": 8,
+        "follow_through": 9
+    },
+    "comments": {
+        "footwork": "Good stable base, slightly open stance.",
+        "balance": "Weight transferred well onto front foot.",
+        "bat_swing": "Smooth arc, minor deviation from straight line.",
+        "head_position": "Mostly aligned with knee, good posture.",
+        "follow_through": "Full extension, nice finish."
+    }
+}
